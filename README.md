@@ -4,7 +4,7 @@
 
 - Evolução Constante 
 - Estudo basicamente um pouco de tudo sobre desenvolvimento
-- <a href="https://caiocdj.github.io/Portifolio/"> Veja meu portifolio</a>
+- <a href="https://caiocdj.github.io/PortifolioV2/"> Veja meu portifolio</a>
 
 <div>
     <a href="https://github.com/CaioCDJ">
