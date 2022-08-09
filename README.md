@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### Front-End
+### Linguagens e Ferramentas
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" width="70" height="70" />
          
