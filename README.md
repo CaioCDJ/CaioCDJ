@@ -1,15 +1,18 @@
 <h1 align="center"> Ola, eu sou Caio</h1> 
 
-
 - Evolução Constante 
 - Estudo basicamente um pouco de tudo sobre desenvolvimento
 - <a href="https://caiocdj.github.io/PortifolioV2/"> Veja meu portifolio</a>
+
+<br>
 
 <div align="center">
     <a href="https://github.com/CaioCDJ">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioCDJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCDJ&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<br>
 
 <div align="center">
 
@@ -44,13 +47,18 @@
 
 </div>
          
-
+<br>
 <div align="center">
 
-## Estudando
+### Estudando
    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="70" height="70"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="70" height="70"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="70" height="70"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="70" height="70" />
+          
+          
 </div>
