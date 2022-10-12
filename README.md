@@ -14,7 +14,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCDJ&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
 
 <br/>
 <h3 align="right">Stack</h3>
