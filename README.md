@@ -16,10 +16,10 @@
 
 
 <br/>
-<h3 align="right">Stack</h3>
+<h3 align="center">Stack</h3>
  
 
-<div align="right">
+<div align="center">
 
 <div>
 <br/>
@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<div align="right">
+<div align="center">
 
 ### Estudando
   
