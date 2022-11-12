@@ -22,11 +22,11 @@
 </div>
 
 
-<br/>
-
 #
-
-<h3> Stack</h3>
+  
+<br/>
+  
+### Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,php,express,react,nodejs)](https://skillicons.dev)
 
@@ -34,7 +34,7 @@
 
 #
 
-<h3> Estudando</h3>
+### Estudando
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,bash,spring,angular)](https://skillicons.dev)
 
