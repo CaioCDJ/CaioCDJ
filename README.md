@@ -1,14 +1,16 @@
-<h1 align="center"> Ola, eu sou Caio</h1> 
+# **Hi there, welcome to my Account** 🙌
 
-- Evolução Constante.
-- Estudo basicamente um pouco de tudo sobre desenvolvimento
-- <a href="https://caiocdj.github.io/PortifolioV2/"> Veja meu portifolio</a>
+- 💪 Constant evolution.
+- 💙 I just like a bit of everything about software development.
+- ⚡ Mainly focus on back-end.
+- 🐧 Penguin since 2021.
+- 👉<a href="https://caiocdj.github.io/PortifolioV2/"> Do not click Here</a>.
+- 🤡 I like to build some strange stuff.
 
-<br>
 
   <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-4aa4731b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a target="_blank" title="caiodjesus1@hotmail.com">
+  <a target="_blank" href="mailto:caiodjesus1@hotmail.com" title="caiodjesus1@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>  
 
@@ -28,14 +30,12 @@
   
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,php,express,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,git,java,js,ts,html,css,php,express,react,nodejs)](https://skillicons.dev)
 
 <br>
 
 #
 
-### Estudando
+### Studding
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,bash,spring,angular)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=flutter,spring,angular)](https://skillicons.dev)
