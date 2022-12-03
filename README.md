@@ -1,4 +1,4 @@
-# **Hi there, welcome to my Account** 🙌
+# **Hi there, welcome to my Github** 🙌
 
 - 💪 Constant evolution.
 - 💙 I just like a bit of everything about software development.
