@@ -3,9 +3,9 @@
 - 💪 Constant evolution.
 - 💙 I just like a bit of everything about software development.
 - ⚡ Mainly focus on back-end.
-- 🐧 Penguin since 2021.
-- 👉<a href="https://caiocdj.github.io/PortifolioV2/"> Do not click Here</a>.
+- 🐧 Im a Penguin.
 - 🤡 I like to build some strange stuff.
+- 👉<a href="https://caiocdj.github.io/PortifolioV2/"> Do not click Here</a>.
 
 
   <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-4aa4731b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
