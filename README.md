@@ -1,21 +1,20 @@
-# **Hi there, welcome to my Github** 🙌
 
 - 💪 Constant evolution.
 - 💙 I just like a bit of everything about software development.
 - ⚡ Mainly focus on back-end.
 - 🐧 Im a Penguin.
 - 🤡 I like to build some strange stuff.
-- 👉<a href="https://caiocdj.github.io/PortifolioV2/"> Do not click Here</a>.
 
-
+<div align="center">
   <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-4aa4731b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a target="_blank" href="mailto:caiodjesus1@hotmail.com" title="caiodjesus1@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>  
+  <a><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+</div
 
-
-<br>
+<br/>
 
 <div align="center">
     <a href="https://github.com/CaioCDJ">
@@ -24,6 +23,8 @@
 </div>
 
 
+<br/>
+  
 #
   
 <br/>
