@@ -39,4 +39,4 @@
 
 ### Studding
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,spring,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,spring,angular)](https://skillicons.dev)
