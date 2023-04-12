@@ -33,7 +33,7 @@
   
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,git,java,js,ts,html,css,php,express,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,java,js,ts,html,css,php,express,nodejs)](https://skillicons.dev)
 
 <br>
 
@@ -41,4 +41,4 @@
 
 ### Studding
 
-[![My Skills](https://skillicons.dev/icons?i=docker,spring,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,laravel)](https://skillicons.dev)
