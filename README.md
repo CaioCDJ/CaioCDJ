@@ -14,7 +14,6 @@
   <a href="https://caiocdj.github.io/PortifolioV3/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 </div
 
-<br/>
 
  ----
   
@@ -33,7 +32,7 @@
   
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,java,js,ts,html,css,php,express,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,java,js,ts,html,css,php,express,nodejs,mysql,postgresql,angular,react,tailwindcss)](https://skillicons.dev)
 
 <br>
 
